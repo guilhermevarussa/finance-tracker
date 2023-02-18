@@ -20,7 +20,6 @@ export const filterListByMonth = (list: Item[], date: string): Item[] => {
         }
     } 
 
-
     return newList
 
 }
